@@ -32,7 +32,7 @@
 ### 🎨 Creative & Technical Interests
 
 * **Game Engineering & Security:** Exploring game engine mechanics, anti-cheat concepts, and server-side multiplayer architecture.
-* **Digital & Technical Art:** UI/UX design and asset creation for digital media and software interfaces.
+* **Character Design & Concept Art:** Original character illustration, 2D/3D visual design, and asset creation for game development and digital media.
 
 ---
 
