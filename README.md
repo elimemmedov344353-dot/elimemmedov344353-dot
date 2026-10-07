@@ -23,7 +23,7 @@
 
 ### 🚀 Featured Project
 
-📌 **[Car Dealership Platform](https://github.com/your-username/car-dealership)** *(Java, Spring Boot, REST APIs)*
+📌 **[Car Dealership Platform](https://github.com/elimemmedov344353-dot/Repo)** *(Java, Spring Boot, REST APIs)*
 * Enterprise backend system for vehicle inventory, customer inquiries, and database persistence.
 * Designed using modular microservices architecture and clean REST endpoints.
 
