@@ -38,5 +38,4 @@
 
 ### 📫 Connect With Me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** elimemmedov344353@gmail.com
